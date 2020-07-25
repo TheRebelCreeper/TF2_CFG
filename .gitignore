@@ -2,5 +2,5 @@
 
 !.gitignore
 !user/
-!user/crosshairs
+!crosshairs/
 !config.cfg
