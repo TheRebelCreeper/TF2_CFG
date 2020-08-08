@@ -1,5 +1,6 @@
 /*
 
 !.gitignore
+!.config_backup.cfg
 !user/
 !crosshairs/
