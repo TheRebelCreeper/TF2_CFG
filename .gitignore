@@ -2,7 +2,8 @@
 
 !.gitignore
 !config_backup.cfg
-!user/
+!overrides/
 !crosshairs/
 
-user/connectinfo.cfg
+overrides/connectinfo.cfg
+
